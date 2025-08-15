@@ -8,3 +8,4 @@
 - [ui](https://github.com/aibetter/ui): A UI component library specially adapted for AI programming
 - [api](https://github.com/aibetter/api): A API server that provide some necessary API services for other AI products.
 - [browser-insight](https://github.com/aibetter/browser-insight): A browser extension to enhance insights into web page
+- [aib](https://github.com/aibetter/aib): AI Ecosystem CLI - Enhancing the AI ecosystem
